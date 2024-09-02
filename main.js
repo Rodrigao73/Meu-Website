@@ -1,0 +1,1 @@
+let ul=document.querySelector("nav .ul");function abrirMenu(){ul.classList.add("open")}function fecharMenu(){ul.classList.remove("open")}
